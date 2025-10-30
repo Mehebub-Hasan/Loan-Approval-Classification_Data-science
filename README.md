@@ -1,7 +1,7 @@
 # Loan-Approval-Classification_Data-science
 An R project for cleaning, preprocessing, and analyzing loan data. Includes steps for missing value imputation, outlier handling, feature engineering, and data balancing to predict loan status.
 
-📌 Overview
+###📌 **Overview**
 
 This project demonstrates practical data science preprocessing techniques, including:
 
@@ -13,7 +13,7 @@ This project demonstrates practical data science preprocessing techniques, inclu
 
 ✅ Data Balancing for Machine Learning
 
-🚀 Project Description & Features
+###🚀 **Project Description & Features**
 
 The R script cleans, preprocesses, and prepares a loan dataset. The goal is to build a clean, balanced dataset ready for machine learning tasks, such as predicting loan_status.
 
@@ -36,7 +36,7 @@ Key processing steps include:
 ✅ Descriptive Statistics: Calculates and prints statistics (mean, median, mode, range, etc.) for key features.
 
 
-🛠 Technologies Used
+### 🛠 **Technologies Used**
 
 💻 Programming Language: R
 
@@ -49,7 +49,7 @@ dplyr: For data manipulation.
 caTools: For splitting data.
 
 
-▶️ How to Run the Project
+### ▶️ **How to Run the Project**
 
 Follow these steps to run the script locally:
 
